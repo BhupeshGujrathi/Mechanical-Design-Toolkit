@@ -14,7 +14,7 @@ This checklist helps ensure that every Engineering Change Notice (ECN) follows a
 
 ### 📌 ECN Workflow
 
-![Engineering Change](Visual_Guide/Engineering_Change)
+![Engineering Change](Visual_Guide/Engineering_Change.png)
 
 ---
 
