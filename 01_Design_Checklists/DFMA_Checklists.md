@@ -6,7 +6,7 @@
 ---
 ### 📌 Visual Guide
 
-![Plastic Design Guidelines](Images/Plastic_Design_Guidelines.png)
+![Plastic Design Guidelines](Visual_Guide/Plastic_Design_Guidelines.png)
 
 ### 📌 General Design
 
