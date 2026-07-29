@@ -8,6 +8,6 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 | Topic | Description |
 |-------|-------------|
-| ✅ [DFM Checklist](01_Design_Checklists/DFM_Checklists.md) | Comprehensive Design for Manufacturing checklist |
+| ✅ [DFMA Checklist](01_Design_Checklists/DFMA_Checklists.md) | Comprehensive Design for Manufacturing checklist |
 
 ---
