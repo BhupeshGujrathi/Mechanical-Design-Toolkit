@@ -6,9 +6,9 @@
 > This checklist helps engineers evaluate whether a design is ready for manufacturing by considering manufacturability, quality, cost, assembly, and production risks.
 
 ---
-### 📌 DFM Visual Guide
+### 📌 Visual Guide
 
-![DFM Checkli(Images/Plastic_Design_Guidelines.png)
+![Plastic Design Guidelines](Images/Plastic_Design_Guidelines.png)
 
 ### 📌 General Design
 
