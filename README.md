@@ -9,6 +9,6 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 ✅ [Engineering Change Management Checklist](01_Design_Checklists/Engineering_Change_Management.md) | It's not about "Change", It's about managing "Impact" 
 
-✅ [SCAMPER for Mechanical Design Engineers](01_Design_Checklists/SCAMPER.md) | Great Engineering Doesn't Start with Answers... It Starts with Better Questions!!!
+✅ [SCAMPER for Mechanical Design Engineers](01_Design_Checklists/SCAMPER.md) | Great Engineering Doesn't Start with Answers, It Starts with Better Questions!!!
 
 ---
