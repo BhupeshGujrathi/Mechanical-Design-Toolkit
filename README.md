@@ -4,14 +4,21 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 ---
 
+✅ [DFMA Checklist](01_Design_Checklists/DFMA_Checklists.md) | 
 
-✅ [DFMA Checklist](01_Design_Checklists/DFMA_Checklists.md) | Design smart, Manufacture Right, Deliver Excellence
+> Design smart, Manufacture Right, Deliver Excellence
 
-✅ [Engineering Change Management Checklist](01_Design_Checklists/Engineering_Change_Management.md) | It's not about "Change", It's about managing "Impact" 
+✅ [Engineering Change Management Checklist](01_Design_Checklists/Engineering_Change_Management.md)
 
-✅ [SCAMPER for Mechanical Design Engineers](01_Design_Checklists/Scamper.md) | Great Engineering Doesn't Start with Answers, It Starts with Better Questions!!!
+> It's not about "Change", It's about managing "Impact" 
 
-✅ [VAVE-Idead Generation Workshop](01_Design_Checklists/VAVE_Workshop.md) | If you have the creativity but don't know where or how to start, this guide is for you
+✅ [SCAMPER for Mechanical Design Engineers](01_Design_Checklists/Scamper.md)
+
+> Great Engineering Doesn't Start with Answers, It Starts with Better Questions!!!
+
+✅ [VAVE-Idead Generation Workshop](01_Design_Checklists/VAVE_Workshop.md)
+
+> If you have the creativity but don't know where or how to start, this guide is for you
 
 ✅ [Tolerance Stack-up Explained](01_Design_Checklists/VAVE_Tolerance_Stackup.md) 
 
