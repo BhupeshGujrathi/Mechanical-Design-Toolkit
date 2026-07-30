@@ -4,6 +4,8 @@
 
 ---
 
+![SCAMPER](Visual_Guide/SCAMPER.png)
+
 ## 📖 What is SCAMPER?
 
 | Letter | Meaning | Engineering Focus |
