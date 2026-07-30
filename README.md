@@ -24,4 +24,9 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 > This guide introduces the fundamentals of tolerance stack-up, why it matters in product development, and best practices to design robust, manufacturable assemblies.
 
+✅ [Understanding difference between 3D Printing & Injection Molding](01_Design_Checklists/RPT_IM.md) 
+
+> A successful prototype proves the concept. A successful molded part proves the design.
+
+
 ---
