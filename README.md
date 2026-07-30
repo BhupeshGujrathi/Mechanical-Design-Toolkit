@@ -28,5 +28,3 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 > A successful prototype proves the concept. A successful molded part proves the design.
 
-
----
