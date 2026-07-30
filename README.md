@@ -11,4 +11,6 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 ✅ [SCAMPER for Mechanical Design Engineers](01_Design_Checklists/Scamper.md) | Great Engineering Doesn't Start with Answers, It Starts with Better Questions!!!
 
+✅ [VAVE-Idead Generation Workshop](01_Design_Checklists/VAVE_Workshop.md) | If you have the creativity but don't know where or how to start, this guide is for you
+
 ---
