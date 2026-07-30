@@ -7,6 +7,7 @@
 > The purpose of this library is to convert engineering experience into reusable knowledge.
 
 ---
+![Lessons](Visual_Guide/Lessons.png)
 
 # Why Maintain a Lessons Learned Library?
 
