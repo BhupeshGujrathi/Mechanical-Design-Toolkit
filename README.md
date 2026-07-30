@@ -20,7 +20,7 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 > If you have the creativity but don't know where or how to start, this guide is for you
 
-✅ [Tolerance Stack-up Explained](01_Design_Checklists/VAVE_Tolerance_Stackup.md) 
+✅ [Tolerance Stack-up Explained](01_Design_Checklists/Tolerance_Stackup.md) 
 
 > This guide introduces the fundamentals of tolerance stack-up, why it matters in product development, and best practices to design robust, manufacturable assemblies.
 
