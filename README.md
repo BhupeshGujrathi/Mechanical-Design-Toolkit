@@ -30,3 +30,5 @@ A practical collection of engineering design guidelines, checklists, and best pr
 
 ✅ [Lessons Today = Ideas Tomorrow](01_Design_Checklists/Lessons_Learnt.md) 
 
+> Engineering experience is too valuable to remain in people's memories. Capture it, organize it, and reuse it.
+
